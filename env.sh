@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Datos del servidor remoto
-USER="fernando"
+USER="user"
 REMOTE_HOST="192.168.122.210"
-REMOTE_PATH="/home/fernando/backups"
+REMOTE_PATH="/home/user/backups"
 
-# Directorio que contiene los subdirectorios a comprimir
-DIR_PATH="/home/fernando/Imágenes"
+# Directorio local que contiene los subdirectorios a comprimir
+DIR_PATH="/home/user/Imágenes"
 
-# Directorio donde se guardarán los archivos .tar.gz
-OUTPUT_DIR="/home/fernando/backups"
+# Directorio local donde se guardarán los archivos .tar.gz temporalmente
+OUTPUT_DIR="/home/user/backups"
