@@ -14,7 +14,7 @@ Antes de usar el script, se deben configurar las variables en el archivo `env.sh
 
 ## Uso
 
-1. Clona este repositorio con `git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git`.
+1. Clona este repositorio con `git clone https://github.com/ingferchorojas/backup-script.git`.
 2. Abre una terminal y navega a la carpeta donde se encuentra el repositorio.
 3. Ejecuta el comando `chmod +x backup.sh` para hacer el script ejecutable.
 4. Ejecuta el script con el comando `./backup.sh`.
