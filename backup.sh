@@ -3,9 +3,6 @@
 # Cargar variables de configuración desde el archivo config.sh
 source env.sh
 
-# Directorio que contiene los subdirectorios a comprimir
-DIR_PATH="/home/fernando/Imágenes"
-
 # Recorre todos los subdirectorios en el directorio principal
 for subdirectory in "$DIR_PATH"/* ; do
   # Verifica que el subdirectorio es un directorio válido
